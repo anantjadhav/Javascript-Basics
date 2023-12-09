@@ -7,3 +7,4 @@ const id = 1;
 console.log(firstName);
 console.log(lastName);
 console.log(id);
+
