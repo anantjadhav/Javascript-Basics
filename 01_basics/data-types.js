@@ -2,7 +2,7 @@
 
 //PRIMITIVE DATA TYPES
 
-let name = 'Anant';
+let MyName = 'Anant';
 
 let id = 1;
 
@@ -22,8 +22,8 @@ let user = {
     password: 'test123'
 }
 
-console.log(name, id, cars, mystatus, myWealth, isLoggedin, bigNumber, user);
-console.table([typeof name, typeof id, typeof cars, typeof mystatus, typeof myWealth, typeof isLoggedin, typeof bigNumber, typeof user])
+console.log(MyName, id, cars, mystatus, myWealth, isLoggedin, bigNumber, user);
+console.table([typeof MyName, typeof id, typeof cars, typeof mystatus, typeof myWealth, typeof isLoggedin, typeof bigNumber, typeof user])
 
 // INFINITE CURRYING FUNCTION
 
