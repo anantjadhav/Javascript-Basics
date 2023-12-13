@@ -37,3 +37,14 @@ function add(a) {
 }
 
 console.log(add(100)(200)(300)(400)());
+
+// number type conversion
+
+// 33 = 33;
+// 33abc = NAN type number
+// true = 1, false = 0
+
+//Boolean type conversion
+// 1 => true
+// "" => false
+// "Anant" => true
